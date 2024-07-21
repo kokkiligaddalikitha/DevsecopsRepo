@@ -7,6 +7,8 @@ public class Arithmetic {
 		System.out.println();
 
 		System.out.println(" Arithmetic.sum() (start) ");
+		
+		System.out.println("------------");
 		return x+y;
 	}
 
