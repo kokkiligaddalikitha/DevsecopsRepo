@@ -23,7 +23,7 @@ public class AppTest
 	{
 		Arithmetic ar=new Arithmetic();
 		int expected=-30;
-		int actual=ar.sum(-10, -20); //-20 20
+		int actual=ar.sum(-10,-20); //-20 20
 		assertEquals(expected, actual);
 	}
 
